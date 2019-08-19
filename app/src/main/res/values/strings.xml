@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ulbra Cerveja</string>
+    <string name="app_title">Calculadora de Cerveja</string>
+
+    <string name="cerveja_300_price">Preço da garrafa longneck 330ml</string>
+    <string name="description_cerveja_300_price">Informe o preço da garrafa longneck de 330 ml</string>
+    <string name="resultado_cerveja_300">da longneck de 330ml</string>
+
+    <string name="cerveja_350_price">Preço da lata de 350 ml</string>
+    <string name="description_cerveja_350_price">Informe o preço da lata de 350 ml</string>
+    <string name="resultado_cerveja_350">da lata de 350 ml</string>
+
+    <string name="cerveja_473_price">Preço do latão de 473 ml</string>
+    <string name="description_cerveja_473_price">Informe o preço do latão de 473 ml</string>
+    <string name="resultado_cerveja_473">do latão de 473 ml</string>
+
+    <string name="cerveja_600_price">Preço da garrafa 600 ml</string>
+    <string name="description_cerveja_600_price">Informe o preço da garrafa 600 ml</string>
+    <string name="resultado_cerveja_600">da garrafa de 600 ml</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="description_btn_calcular">Clique no botão para calcular</string>
+
+    <string name="locale_currency">R$</string>
+    <string name="Infome_pelo_menos_dois_precos">Informe pelo menos o preço de duas opções para comparar.</string>
+    <string name="o_melhor_preco_e">O melhor preço é </string>
+    <string name="cujo_preco_por_litro_e"> cujo preço por litro custa </string>
+
+</resources>
